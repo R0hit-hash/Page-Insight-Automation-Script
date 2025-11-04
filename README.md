@@ -1,6 +1,6 @@
 ---
 
-# Bulk PageSpeed Insights Automation for Google Sheets
+# Test Your Website Speed in One Click (Using Sheets)
 
 This Google Apps Script automates the process of checking URL status codes and fetching **PageSpeed Insights (PSI)** performance metrics for multiple URLs directly from **Google Sheets**.
 
